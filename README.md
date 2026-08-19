@@ -26,4 +26,17 @@ El proyecto se organiza en los siguientes módulos principales:
     
 ---
 
-*Nota: Cada uno de los folderes (`/Cod_Diagnostico/`, `/codigo_optimizacion/`, etc.) contiene su propio `README.md` secundario, explicando en detalle la inicialización y los pasos para la reproducibilidad de esa sección.*
+*Nota: Cada uno de los directorios contiene su propio `README.md` secundario, explicando en detalle la inicialización, requerimientos y los pasos para la reproducibilidad de esa sección.*
+
+---
+
+## 👥 Equipo (Autores)
+Este proyecto fue desarrollado y obtuvo el **2do Puesto en la Datathon CIP 2025** gracias al trabajo colaborativo de:
+
+* **Oscar Cutipa Luque** - [GitHub](https://github.com/OscarCutipaLuque) | [LinkedIn](https://www.linkedin.com/in/oscar-diego-fernando-cutipa-luque/)
+
+* **Cielo Lozada Perez** - [LinkedIn](https://www.linkedin.com/in/cielo-lozada/)
+
+* **Kevin Fernandez** - [LinkedIn](https://www.linkedin.com/in/kevin-fernandez-5a615911a/)
+
+* **Andre Juarez Castro** - [LinkedIn](https://www.linkedin.com/in/andre-juarez-castro/)
