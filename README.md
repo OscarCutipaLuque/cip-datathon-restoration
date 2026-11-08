@@ -1,5 +1,13 @@
 # 🛰️ PastizalAI: La brújula inteligente para revivir Picotani 🧭
 
+## 🎬 Demo y presentación
+
+👉 **[Ver la presentación y el video del prototipo (Canva)](https://canva.link/lwzkod9tlhu7h1z)**
+
+Prueba de valor desarrollada en la Datathon CIP 2025 con datos limitados: mapas de carbono y de peso seco (dry weight) estimados con ML, y un dashboard interactivo en Shiny para visualizar mapas y tendencias.
+
+---
+
 ## Descripción 🎯
 
 Proyecto para el **análisis, diagnóstico y predicción** sobre pastizales altoandinos (p. ej., carbono, biomasa y cobertura vegetal).
